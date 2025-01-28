@@ -6,7 +6,7 @@ This project focuses on **pinpointing the most popular locations** in 2022 based
 ---
 
 ## 🗂️ Dataset Details  
-- **Dataset Source**: [Airbnb listings].(https://drive.google.com/file/d/1KyZUXTaD5226CW5po3BCzLWmibBiGXYe/view?usp=drive_link)
+- **Dataset Source**: [Airbnb listings](https://drive.google.com/file/d/1KyZUXTaD5226CW5po3BCzLWmibBiGXYe/view?usp=drive_link)
 - **Shape**: (87,946 rows × 75 columns)  
 - **Preprocessing**:  
   - Python was used for data cleaning and preparation.  
